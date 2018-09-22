@@ -2,3 +2,5 @@
 2.$add . #add all changes
 3.$git commit -m "First commit" #we need something in " "
 4.$git push origin master #push local to remote
+
+mark compare & improve
